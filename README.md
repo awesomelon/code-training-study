@@ -1,1 +1,1 @@
-# code-training-study
+## 코드 트레이닝 책 공부
