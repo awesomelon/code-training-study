@@ -6,7 +6,7 @@
 
 ## 출력 예
 
-what is your name ? Bangjh
+what is your name ? Bangjh <br/>
 Hello, Bangjh, nice to meet you
 
 ## 제약 조건
